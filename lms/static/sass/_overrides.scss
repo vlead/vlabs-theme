@@ -1,3 +1,7 @@
 // Make the background red
 $header-bg: rgb(250,0,0);
 
+// Define a new Sass rule
+body ul li {
+    font-size: 1000px;
+}
